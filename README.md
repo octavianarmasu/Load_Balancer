@@ -27,6 +27,6 @@ In server.c am introdus implementarea de la lab a hashtable-ului. Am folosit
 si o functie move_keys care copiaza cheiile din primul server si le pune
 si in al doilea. Aceasta functie a fost utila la functia de server_remove.
 
-Pentru majoritatea functiilor si am adaugat si comentarii care clarifica
+Pentru majoritatea functiilor am adaugat si comentarii care clarifica
 cum functioneaza fiecare.
 
